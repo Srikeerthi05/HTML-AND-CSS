@@ -1,0 +1,70 @@
+.p1{
+    font-family: Tahoma;
+    font-weight:bold;
+    font-size: 30px;
+}
+
+.p2{
+    font-family: Arial ;
+    font-weight:bold;
+    font-size:30px;
+   line-height: 0.5px;
+}
+
+.p3{
+    font-family:Verdana;
+    font-weight:bold;
+    font-size:20px;
+    line-height:5px;
+}
+
+.p4{
+    font-family:Verdana;
+    color:gray;
+    font-size:15px;
+    line-height:20px;
+}
+
+.p5{
+    font-family:Verdana;
+    font-size:15px;
+    width:250px;
+}
+
+.p6{
+    font-family: Arial;
+    font-size:20px;
+    font-weight:bold;
+    line-height:18px;
+    text-align:center;
+}
+.p7{
+    font-family:Arial;
+    font-size:15px;
+    line-height:18px;
+    text-align:center;
+    margin-right:10px;
+}
+.b1{
+    background-color:rgb(44, 164, 79);
+    color:white;
+    border-radius:5px;
+    padding: 7px 12px 7px 12px;
+    border:none;
+}
+
+.red{
+    color:red;
+    font-style: italic;
+    font-family: Arial;
+    
+   
+
+}
+
+.learn{
+    color:#007aff;
+    text-align:center;
+    font-family: Arial;
+
+}

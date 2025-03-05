@@ -1,0 +1,113 @@
+*{
+    font-family: Arial;
+}
+body{
+    background-color:white;
+    color:rgb(66,66,66);
+    text-align: center;
+}
+header{
+    align-items:center;
+    padding: 20px 40px;
+    justify-content: space-between;
+    display: flex;
+}
+.zdp img{
+    height:18px;
+    width:160px;
+     
+    padding-left:-40px;
+}
+nav ul{
+    display:flex;
+    list-style: none;
+}
+nav ul li{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+nav ul li a{
+    color:#777676;
+    font-size:16px;
+    text-decoration: none;
+    font-family: arial;
+}
+nav ul li a.b1{
+    color:rgb(56,126,209);
+    font-weight: bold;;
+}
+.Charges{
+    color:rgb(66,66,66);
+    font-size:44px;
+    font-family: Arial;
+    text-align:center;
+    margin-bottom: 5;
+    margin-top:10;
+    line-height: 0.5;
+}
+.List{
+    color:gray;
+    font-size:20px;
+    font-family: Arial;
+    text-align:center;
+    line-height:0.5;
+    
+}
+.container{
+    display:flex;
+     justify-content: center;
+     align-items:flex-start;
+    gap:40px;
+    flex-direction: row;
+    margin-top:100px;
+    
+}
+.one{
+    padding:20px;
+    border-radius:10px;
+    width:300px;
+    vertical-align: top;
+}
+.one h3{
+    font-size:30px;
+    font-weight: normal;
+    margin:auto;
+    width:350px;
+    margin-left:-20px;
+    margin-bottom:30px;
+    font-family: Arial;
+}
+.zero{
+    width:250px;
+    margin-bottom: 10px;
+}
+.twenty{
+    width:250px;
+    margin-bottom: 10px;
+}
+.p1{
+    font-size: 15px;
+    color: #6a6a6a;
+    font-family: arial;
+    width:300px;
+    line-height:1.7;
+    margin-left:2px;
+}
+.p2{
+    font-size: 15px;
+    color: #6a6a6a;
+    font-family: arial;
+    width:300px;
+    line-height:1.7;
+    margin-left:19px;
+}
+
+.p3{
+    font-size: 15px;
+    color: #6a6a6a;
+    font-family: arial;
+    width:300px;
+    line-height:1.7;
+    margin-left:19px;
+}
+
